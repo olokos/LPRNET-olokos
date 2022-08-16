@@ -144,3 +144,4 @@ dmypy.json
 
 
 .gitignore.txt
+/.idea/

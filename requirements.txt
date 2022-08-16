@@ -1,8 +1,8 @@
-editdistance==0.5.3
+editdistance==0.6.0
 Keras-Applications==1.0.8
-matplotlib==3.1.1
-numpy==1.20.1
-tensorboard==1.15.0
-tensorflow==1.15.0
-tensorflow-estimator==1.15.1
-opencv==4.4.0
+matplotlib==3.5.3
+numpy==1.23.2
+tensorboard==2.10.0
+tensorflow==2.9.1
+tensorflow-estimator==2.9.0
+opencv-python==4.6.0.66
