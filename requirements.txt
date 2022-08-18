@@ -6,3 +6,7 @@ tensorboard==2.10.0
 tensorflow==2.9.1
 tensorflow-estimator==2.9.0
 opencv-python==4.6.0.66
+
+# new model generation deps below
+#tflite-model-maker==0.4.1
+#tflite-support==0.4.1
